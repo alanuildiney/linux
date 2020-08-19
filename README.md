@@ -1,2 +1,0 @@
-# sitelinux
-Site de teste
