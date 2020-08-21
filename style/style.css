@@ -4,9 +4,11 @@ html {
 	font-family: 'Roboto', sans-serif;
 	font-size: 10px;
 	/*background-color:rgba(20, 156, 151, 0.5);)*/
-	backgroung-image: linear-gradient(to left, #3fcc9b, #3f5be8, #e83fb5, );
+	background-image: linear-gradient(to left, #3fcc9b, #3f5be8, #e83fb5);
+	text-align: center;
 }
 
+/*
 body {
 	width: 600px;
 	margin: 0 auto;
@@ -15,10 +17,11 @@ body {
 	border: 1px solid black;
 }
 
+*/
+
 h1 {	
 	margin: 0;
 	padding: 20px 0px;
-	color: ;	
 }
 
 p, li{
