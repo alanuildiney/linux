@@ -11,6 +11,12 @@ minhaImagem.onclick = function() {
 		}
 	}
 
+	//Saudação Jaciara
+
+	alert('Oi Jaciara, aqui é o Alan rsrs')
+
+	/*
+	
 	// Mudar nome do usuário
 
 	let meuBotao = document.querySelector('button');
@@ -37,3 +43,5 @@ minhaImagem.onclick = function() {
 
 	meuBotao.onclick = function() {defineNomeUsuario();
 	}
+	
+	*/
