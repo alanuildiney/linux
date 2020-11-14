@@ -10,12 +10,7 @@ minhaImagem.onclick = function() {
 			minhaImagem.setAttribute('src', 'image/linux600x400.png');
 		}
 	}
-
-	//Saudação Jaciara
-
-	alert('Oi Jaciara, aqui é o Alan rsrs')
-
-	/*
+	
 	
 	// Mudar nome do usuário
 
@@ -43,5 +38,3 @@ minhaImagem.onclick = function() {
 
 	meuBotao.onclick = function() {defineNomeUsuario();
 	}
-	
-	*/
